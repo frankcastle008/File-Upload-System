@@ -1,0 +1,7 @@
+.grad {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  background-attachment: fixed;
+  background-image: linear-gradient(#FEE140, #FA709A);
+}

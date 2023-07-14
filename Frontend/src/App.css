@@ -1,0 +1,15 @@
+.grad{
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  background-attachment: fixed;
+  background-image: linear-gradient(#FEE140, #FA709A);
+}
+
+.btn{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+  margin-top: 30px;
+}
